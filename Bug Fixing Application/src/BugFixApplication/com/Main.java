@@ -33,7 +33,7 @@ public class Main {
         expenses.add(1000);
         expenses.add(2300);
         expenses.add(45000);
-        expenses.add(32000);
+        expenses.add(82000);
         expenses.add(110);
         expenses.addAll(arrlist);
         System.out.println("\nEnter your choice:\t");
